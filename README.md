@@ -1,1 +1,1 @@
-# pin.github.io
+# [link](https://pedrocosta.github.io/pin/)
